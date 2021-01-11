@@ -4,19 +4,19 @@
     "url": "https://agate.id",
     "icon": "https://favicons.githubusercontent.com/agate.id",
     "slug": "agate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2375,
-    "timeDay": 2157,
-    "timeWeek": 2470,
-    "timeMonth": 2375,
-    "timeYear": 2375,
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "95.97%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
+    "time": 2380,
+    "timeDay": 2257,
+    "timeWeek": 2469,
+    "timeMonth": 2380,
+    "timeYear": 2380,
     "dailyMinutesDown": {
-      "2021-01-11": 0
+      "2021-01-11": 58
     }
   },
   {

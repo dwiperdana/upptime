@@ -60,19 +60,19 @@
     "url": "https://game.indigo.id",
     "icon": "https://favicons.githubusercontent.com/game.indigo.id",
     "slug": "igsi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 408,
-    "timeDay": 249,
-    "timeWeek": 382,
-    "timeMonth": 408,
-    "timeYear": 408,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 396,
+    "timeDay": 211,
+    "timeWeek": 356,
+    "timeMonth": 396,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2021-01-15": 0
+      "2021-01-15": 56
     }
   },
   {

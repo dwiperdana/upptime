@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 2358,
-    "timeDay": 2147,
-    "timeWeek": 2303,
-    "timeMonth": 2358,
-    "timeYear": 2358,
+    "time": 2349,
+    "timeDay": 2081,
+    "timeWeek": 2172,
+    "timeMonth": 2349,
+    "timeYear": 2349,
     "dailyMinutesDown": {
       "2021-01-11": 58
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 340,
-    "timeWeek": 363,
-    "timeMonth": 330,
-    "timeYear": 330,
+    "time": 331,
+    "timeDay": 372,
+    "timeWeek": 332,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 928,
-    "timeDay": 1013,
-    "timeWeek": 1003,
-    "timeMonth": 928,
-    "timeYear": 928,
+    "time": 930,
+    "timeDay": 993,
+    "timeWeek": 997,
+    "timeMonth": 930,
+    "timeYear": 930,
     "dailyMinutesDown": {}
   },
   {
@@ -61,16 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/game.indigo.id",
     "slug": "igsi",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 463,
-    "timeDay": 173,
-    "timeWeek": 557,
-    "timeMonth": 463,
-    "timeYear": 463,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 454,
+    "timeDay": 170,
+    "timeWeek": 519,
+    "timeMonth": 454,
+    "timeYear": 454,
     "dailyMinutesDown": {
       "2021-01-15": 56
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2128,
-    "timeDay": 1974,
-    "timeWeek": 3012,
-    "timeMonth": 2128,
-    "timeYear": 2128,
+    "time": 2122,
+    "timeDay": 1973,
+    "timeWeek": 3003,
+    "timeMonth": 2122,
+    "timeYear": 2122,
     "dailyMinutesDown": {}
   }
 ]

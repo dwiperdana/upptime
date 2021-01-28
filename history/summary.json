@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/agate.id",
     "slug": "agate",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 2341,
-    "timeDay": 2167,
-    "timeWeek": 2179,
-    "timeMonth": 2341,
-    "timeYear": 2341,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 2332,
+    "timeDay": 2047,
+    "timeWeek": 2159,
+    "timeMonth": 2332,
+    "timeYear": 2332,
     "dailyMinutesDown": {
       "2021-01-11": 58
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 626,
-    "timeWeek": 359,
-    "timeMonth": 334,
-    "timeYear": 334,
+    "time": 333,
+    "timeDay": 318,
+    "timeWeek": 313,
+    "timeMonth": 333,
+    "timeYear": 333,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 934,
-    "timeDay": 992,
-    "timeWeek": 1005,
-    "timeMonth": 934,
-    "timeYear": 934,
+    "time": 933,
+    "timeDay": 911,
+    "timeWeek": 1002,
+    "timeMonth": 933,
+    "timeYear": 933,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 453,
-    "timeDay": 413,
-    "timeWeek": 491,
-    "timeMonth": 453,
-    "timeYear": 453,
+    "time": 451,
+    "timeDay": 415,
+    "timeWeek": 467,
+    "timeMonth": 451,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2021-01-15": 56
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2114,
-    "timeDay": 1968,
-    "timeWeek": 2003,
-    "timeMonth": 2114,
-    "timeYear": 2114,
+    "time": 2108,
+    "timeDay": 1923,
+    "timeWeek": 1994,
+    "timeMonth": 2108,
+    "timeYear": 2108,
     "dailyMinutesDown": {}
   }
 ]

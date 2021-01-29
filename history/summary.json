@@ -80,19 +80,19 @@
     "url": "https://academy.dilo.id",
     "icon": "https://favicons.githubusercontent.com/academy.dilo.id",
     "slug": "di-lo-game-academy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2100,
-    "timeDay": 1835,
-    "timeWeek": 1960,
-    "timeMonth": 2121,
-    "timeYear": 2100,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 2259,
+    "timeDay": 4679,
+    "timeWeek": 2655,
+    "timeMonth": 2290,
+    "timeYear": 2259,
     "dailyMinutesDown": {
-      "2021-01-29": 0
+      "2021-01-29": 42
     }
   }
 ]

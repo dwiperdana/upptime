@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/agate.id",
     "slug": "agate",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 2323,
     "timeDay": 2033,
     "timeWeek": 2131,
@@ -80,9 +80,9 @@
     "url": "https://academy.dilo.id",
     "icon": "https://favicons.githubusercontent.com/academy.dilo.id",
     "slug": "di-lo-game-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,6 +91,8 @@
     "timeWeek": 1960,
     "timeMonth": 2121,
     "timeYear": 2100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-29": 0
+    }
   }
 ]

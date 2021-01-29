@@ -11,9 +11,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.88%",
     "time": 2314,
-    "timeDay": 2006,
-    "timeWeek": 2112,
-    "timeMonth": 2326,
+    "timeDay": 1979,
+    "timeWeek": 2101,
+    "timeMonth": 2331,
     "timeYear": 2314,
     "dailyMinutesDown": {
       "2021-01-11": 58
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 270,
-    "timeWeek": 318,
-    "timeMonth": 327,
+    "timeDay": 224,
+    "timeWeek": 331,
+    "timeMonth": 324,
     "timeYear": 330,
     "dailyMinutesDown": {}
   },
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 933,
-    "timeDay": 939,
-    "timeWeek": 979,
+    "timeDay": 922,
+    "timeWeek": 968,
     "timeMonth": 938,
     "timeYear": 933,
     "dailyMinutesDown": {}
@@ -67,9 +67,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.88%",
     "time": 443,
-    "timeDay": 306,
-    "timeWeek": 379,
-    "timeMonth": 455,
+    "timeDay": 314,
+    "timeWeek": 321,
+    "timeMonth": 447,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2021-01-15": 56
@@ -80,19 +80,19 @@
     "url": "https://academy.dilo.id",
     "icon": "https://favicons.githubusercontent.com/academy.dilo.id",
     "slug": "di-lo-game-academy",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "91.93%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.75%",
-    "time": 2318,
-    "timeDay": 3999,
-    "timeWeek": 2788,
-    "timeMonth": 2350,
-    "timeYear": 2318,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "89.09%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.67%",
+    "time": 2523,
+    "timeDay": 6015,
+    "timeWeek": 3574,
+    "timeMonth": 2585,
+    "timeYear": 2523,
     "dailyMinutesDown": {
-      "2021-01-29": 116
+      "2021-01-29": 157
     }
   }
 ]

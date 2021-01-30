@@ -80,9 +80,9 @@
     "url": "https://academy.dilo.id",
     "icon": "https://favicons.githubusercontent.com/academy.dilo.id",
     "slug": "di-lo-game-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "89.09%",
+    "uptimeDay": "89.08%",
     "uptimeWeek": "98.44%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.67%",
@@ -92,6 +92,7 @@
     "timeMonth": 2585,
     "timeYear": 2523,
     "dailyMinutesDown": {
+      "2021-01-30": 0,
       "2021-01-29": 157
     }
   }

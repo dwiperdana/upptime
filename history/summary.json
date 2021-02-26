@@ -4,9 +4,9 @@
     "url": "https://agate.id",
     "icon": "https://favicons.githubusercontent.com/agate.id",
     "slug": "agate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.84%",
@@ -16,6 +16,7 @@
     "timeMonth": 2169,
     "timeYear": 2256,
     "dailyMinutesDown": {
+      "2021-02-26": 0,
       "2021-02-10": 81,
       "2021-01-11": 58
     }
@@ -64,11 +65,11 @@
     "icon": "https://favicons.githubusercontent.com/game.indigo.id",
     "slug": "igsi",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 388,
     "timeDay": 113,
     "timeWeek": 283,

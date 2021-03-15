@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/agate.id",
     "slug": "agate",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 2250,
     "timeDay": 2379,
     "timeWeek": 2314,
@@ -43,9 +43,9 @@
     "url": "https://forum.dwiperdana.com",
     "icon": "https://favicons.githubusercontent.com/forum.dwiperdana.com",
     "slug": "game-dev-dan-sekitarnya",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
@@ -55,6 +55,7 @@
     "timeMonth": 838,
     "timeYear": 893,
     "dailyMinutesDown": {
+      "2021-03-15": 0,
       "2021-02-19": 47
     }
   },

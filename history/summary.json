@@ -33,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 280,
     "timeDay": 594,
-    "timeWeek": 367,
+    "timeWeek": 392,
     "timeMonth": 270,
     "timeYear": 280,
     "dailyMinutesDown": {}
@@ -85,7 +85,7 @@
     "url": "https://academy.dilo.id",
     "icon": "https://favicons.githubusercontent.com/academy.dilo.id",
     "slug": "di-lo-game-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -94,7 +94,7 @@
     "time": 2212,
     "timeDay": 2192,
     "timeWeek": 2094,
-    "timeMonth": 2173,
+    "timeMonth": 2171,
     "timeYear": 2212,
     "dailyMinutesDown": {
       "2021-02-21": 27,

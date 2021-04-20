@@ -4,7 +4,7 @@
     "url": "https://agate.id",
     "icon": "https://favicons.githubusercontent.com/agate.id",
     "slug": "agate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -72,7 +72,7 @@
     "uptimeYear": "99.94%",
     "time": 991,
     "timeDay": 2571,
-    "timeWeek": 2387,
+    "timeWeek": 2411,
     "timeMonth": 2421,
     "timeYear": 991,
     "dailyMinutesDown": {

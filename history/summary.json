@@ -72,9 +72,9 @@
     "url": "https://game.indigo.id",
     "icon": "https://favicons.githubusercontent.com/game.indigo.id",
     "slug": "igsi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -84,6 +84,7 @@
     "timeMonth": 2656,
     "timeYear": 1795,
     "dailyMinutesDown": {
+      "2021-08-11": 0,
       "2021-03-17": 36,
       "2021-01-15": 56
     }

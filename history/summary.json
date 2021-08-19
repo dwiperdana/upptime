@@ -33,18 +33,20 @@
     "url": "https://dwiperdana.com",
     "icon": "https://favicons.githubusercontent.com/dwiperdana.com",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 83,
-    "timeWeek": 160,
-    "timeMonth": 223,
+    "timeDay": 149,
+    "timeWeek": 167,
+    "timeMonth": 222,
     "timeYear": 267,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-19": 0
+    }
   },
   {
     "name": "Game Dev dan Sekitarnya",

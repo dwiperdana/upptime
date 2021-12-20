@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/agate.id",
     "slug": "agate",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 2498,
     "timeDay": 1977,
     "timeWeek": 2026,
@@ -34,9 +34,9 @@
     "url": "https://dwiperdana.com",
     "icon": "https://favicons.githubusercontent.com/dwiperdana.com",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -46,6 +46,7 @@
     "timeMonth": 224,
     "timeYear": 243,
     "dailyMinutesDown": {
+      "2021-12-20": 0,
       "2021-11-16": 20
     }
   },

@@ -10,11 +10,11 @@
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.43%",
-    "time": 2433,
-    "timeDay": 2568,
-    "timeWeek": 2006,
-    "timeMonth": 2031,
-    "timeYear": 2452,
+    "time": 2432,
+    "timeDay": 2507,
+    "timeWeek": 2014,
+    "timeMonth": 2027,
+    "timeYear": 2451,
     "dailyMinutesDown": {
       "2022-02-09": 25,
       "2022-02-03": 18,
@@ -26,8 +26,7 @@
       "2021-07-12": 655,
       "2021-05-06": 29,
       "2021-04-22": 139,
-      "2021-04-21": 655,
-      "2021-02-10": 81
+      "2021-04-21": 655
     }
   },
   {
@@ -42,10 +41,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 67,
-    "timeWeek": 133,
-    "timeMonth": 156,
-    "timeYear": 223,
+    "timeDay": 124,
+    "timeWeek": 118,
+    "timeMonth": 159,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2021-11-16": 20
     }
@@ -65,7 +64,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 870,
+    "timeYear": 871,
     "dailyMinutesDown": {
       "2021-03-15": 25,
       "2021-02-19": 47
@@ -77,16 +76,16 @@
     "icon": "https://favicons.githubusercontent.com/game.indigo.id",
     "slug": "igsi",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "97.99%",
-    "time": 2596,
-    "timeDay": 3747,
-    "timeWeek": 3758,
-    "timeMonth": 3647,
-    "timeYear": 2863,
+    "time": 2598,
+    "timeDay": 3376,
+    "timeWeek": 3664,
+    "timeMonth": 3637,
+    "timeYear": 2872,
     "dailyMinutesDown": {
       "2022-02-03": 66,
       "2022-01-05": 332,
@@ -115,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
-    "time": 2194,
-    "timeDay": 1698,
-    "timeWeek": 1670,
-    "timeMonth": 1674,
-    "timeYear": 2167,
+    "time": 2192,
+    "timeDay": 1643,
+    "timeWeek": 1693,
+    "timeMonth": 1672,
+    "timeYear": 2166,
     "dailyMinutesDown": {
       "2021-12-10": 500,
       "2021-12-09": 1440,

@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.67%",
     "uptimeYear": "98.43%",
-    "time": 3000,
-    "timeDay": 2776,
-    "timeWeek": 2685,
-    "timeMonth": 3188,
+    "time": 3002,
+    "timeDay": 2616,
+    "timeWeek": 2700,
+    "timeMonth": 3170,
     "timeYear": 3441,
     "dailyMinutesDown": {
       "2023-05-02": 39,
@@ -42,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 519,
-    "timeDay": 88,
-    "timeWeek": 115,
-    "timeMonth": 117,
-    "timeYear": 598,
+    "timeDay": 142,
+    "timeWeek": 112,
+    "timeMonth": 119,
+    "timeYear": 596,
     "dailyMinutesDown": {
       "2022-12-18": 15,
       "2022-05-23": 83
@@ -75,18 +75,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "down",
-    "uptime": "89.42%",
+    "uptime": "89.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.91%",
-    "time": 3706,
+    "uptimeYear": "76.63%",
+    "time": 3707,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3779,
+    "timeYear": 3776,
     "dailyMinutesDown": {
-      "2023-05-14": 44,
+      "2023-05-15": 43,
+      "2023-05-14": 1440,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
@@ -190,7 +191,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "55.71%",
+    "uptime": "55.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -201,7 +202,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-14": 44,
+      "2023-05-15": 43,
+      "2023-05-14": 1440,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
@@ -564,8 +566,7 @@
       "2022-05-19": 1440,
       "2022-05-18": 1440,
       "2022-05-17": 1440,
-      "2022-05-16": 1440,
-      "2022-05-15": 1440
+      "2022-05-16": 1440
     }
   }
 ]

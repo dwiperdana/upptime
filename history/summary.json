@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.67%",
     "uptimeYear": "98.43%",
-    "time": 3004,
-    "timeDay": 2768,
-    "timeWeek": 2713,
-    "timeMonth": 3155,
-    "timeYear": 3438,
+    "time": 3006,
+    "timeDay": 2808,
+    "timeWeek": 2741,
+    "timeMonth": 3150,
+    "timeYear": 3437,
     "dailyMinutesDown": {
       "2023-05-02": 39,
       "2023-04-30": 874,
@@ -42,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 519,
-    "timeDay": 64,
-    "timeWeek": 108,
-    "timeMonth": 120,
-    "timeYear": 591,
+    "timeDay": 77,
+    "timeWeek": 98,
+    "timeMonth": 118,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2022-12-18": 15,
       "2022-05-23": 83
@@ -75,18 +75,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "down",
-    "uptime": "89.12%",
+    "uptime": "89.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.08%",
-    "time": 3706,
+    "uptimeYear": "75.81%",
+    "time": 3707,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3779,
+    "timeYear": 3782,
     "dailyMinutesDown": {
-      "2023-05-17": 45,
+      "2023-05-18": 41,
+      "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
@@ -183,8 +184,7 @@
       "2022-12-01": 588,
       "2022-07-28": 430,
       "2022-07-22": 86,
-      "2022-06-26": 650,
-      "2022-05-18": 31
+      "2022-06-26": 650
     }
   },
   {
@@ -193,18 +193,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "55.52%",
+    "uptime": "55.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1631,
+    "time": 1632,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-17": 45,
+      "2023-05-18": 41,
+      "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
@@ -567,8 +568,7 @@
       "2022-05-22": 1440,
       "2022-05-21": 1440,
       "2022-05-20": 1440,
-      "2022-05-19": 1440,
-      "2022-05-18": 1440
+      "2022-05-19": 1440
     }
   }
 ]

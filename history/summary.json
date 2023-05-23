@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.67%",
     "uptimeYear": "98.43%",
-    "time": 3011,
-    "timeDay": 2837,
-    "timeWeek": 2691,
-    "timeMonth": 2689,
+    "time": 3012,
+    "timeDay": 2836,
+    "timeWeek": 2719,
+    "timeMonth": 2552,
     "timeYear": 3435,
     "dailyMinutesDown": {
       "2023-05-02": 39,
@@ -42,13 +42,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 518,
-    "timeDay": 71,
-    "timeWeek": 99,
-    "timeMonth": 117,
-    "timeYear": 580,
+    "timeDay": 81,
+    "timeWeek": 86,
+    "timeMonth": 116,
+    "timeYear": 577,
     "dailyMinutesDown": {
-      "2022-12-18": 15,
-      "2022-05-23": 83
+      "2022-12-18": 15
     }
   },
   {
@@ -75,18 +74,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "down",
-    "uptime": "88.61%",
+    "uptime": "88.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.72%",
-    "time": 3707,
+    "uptimeYear": "74.45%",
+    "time": 3708,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3785,
+    "timeYear": 3786,
     "dailyMinutesDown": {
-      "2023-05-22": 44,
+      "2023-05-23": 44,
+      "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -197,7 +197,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "55.20%",
+    "uptime": "55.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -208,7 +208,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 44,
+      "2023-05-23": 44,
+      "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -571,8 +572,7 @@
       "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 1440,
-      "2022-05-24": 1440,
-      "2022-05-23": 1440
+      "2022-05-24": 1440
     }
   }
 ]

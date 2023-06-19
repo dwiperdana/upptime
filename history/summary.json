@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.43%",
-    "time": 3048,
-    "timeDay": 2737,
-    "timeWeek": 2824,
-    "timeMonth": 2751,
-    "timeYear": 3442,
+    "time": 3050,
+    "timeDay": 3348,
+    "timeWeek": 2871,
+    "timeMonth": 2769,
+    "timeYear": 3444,
     "dailyMinutesDown": {
       "2023-05-02": 39,
       "2023-04-30": 874,
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 200,
-    "timeWeek": 158,
-    "timeMonth": 117,
-    "timeYear": 517,
+    "time": 515,
+    "timeDay": 81,
+    "timeWeek": 156,
+    "timeMonth": 118,
+    "timeYear": 515,
     "dailyMinutesDown": {
       "2022-12-18": 15
     }
@@ -74,18 +74,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "down",
-    "uptime": "85.95%",
+    "uptime": "85.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.32%",
-    "time": 3715,
+    "uptimeYear": "67.05%",
+    "time": 3716,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3837,
+    "timeYear": 3839,
     "dailyMinutesDown": {
-      "2023-06-18": 54,
+      "2023-06-19": 50,
+      "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
@@ -223,7 +224,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "53.55%",
+    "uptime": "53.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -234,7 +235,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-18": 54,
+      "2023-06-19": 50,
+      "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
@@ -597,8 +599,7 @@
       "2022-06-23": 1440,
       "2022-06-22": 1440,
       "2022-06-21": 1440,
-      "2022-06-20": 1440,
-      "2022-06-19": 1440
+      "2022-06-20": 1440
     }
   }
 ]

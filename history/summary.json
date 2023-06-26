@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.43%",
-    "time": 3062,
-    "timeDay": 2691,
-    "timeWeek": 3172,
-    "timeMonth": 2849,
-    "timeYear": 3445,
+    "time": 3063,
+    "timeDay": 2702,
+    "timeWeek": 3080,
+    "timeMonth": 2844,
+    "timeYear": 3443,
     "dailyMinutesDown": {
       "2023-05-02": 39,
       "2023-04-30": 874,
@@ -42,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 515,
-    "timeDay": 156,
-    "timeWeek": 106,
-    "timeMonth": 122,
-    "timeYear": 502,
+    "timeDay": 214,
+    "timeWeek": 125,
+    "timeMonth": 126,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2022-12-18": 15
     }
@@ -74,18 +74,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "down",
-    "uptime": "85.29%",
+    "uptime": "85.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.40%",
-    "time": 3718,
+    "uptimeYear": "65.13%",
+    "time": 3719,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3856,
+    "timeYear": 3858,
     "dailyMinutesDown": {
-      "2023-06-25": 59,
+      "2023-06-26": 56,
+      "2023-06-25": 1440,
       "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
@@ -220,8 +221,7 @@
       "2022-12-02": 864,
       "2022-12-01": 588,
       "2022-07-28": 430,
-      "2022-07-22": 86,
-      "2022-06-26": 650
+      "2022-07-22": 86
     }
   },
   {
@@ -230,18 +230,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "53.14%",
+    "uptime": "53.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1613,
+    "time": 1614,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-25": 59,
+      "2023-06-26": 56,
+      "2023-06-25": 1440,
       "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
@@ -604,8 +605,7 @@
       "2022-06-30": 1440,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
-      "2022-06-27": 1440,
-      "2022-06-26": 1440
+      "2022-06-27": 1440
     }
   }
 ]

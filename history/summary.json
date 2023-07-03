@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.43%",
-    "time": 3075,
-    "timeDay": 2717,
-    "timeWeek": 3038,
-    "timeMonth": 2915,
-    "timeYear": 3444,
+    "time": 3077,
+    "timeDay": 2989,
+    "timeWeek": 3079,
+    "timeMonth": 2925,
+    "timeYear": 3442,
     "dailyMinutesDown": {
       "2023-05-02": 39,
       "2023-04-30": 874,
@@ -42,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 512,
-    "timeDay": 56,
-    "timeWeek": 120,
-    "timeMonth": 128,
-    "timeYear": 486,
+    "timeDay": 174,
+    "timeWeek": 114,
+    "timeMonth": 130,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2022-12-18": 15
     }
@@ -74,18 +74,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "down",
-    "uptime": "84.64%",
+    "uptime": "84.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "63.61%",
-    "time": 3724,
+    "uptimeYear": "63.34%",
+    "time": 3725,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3876,
+    "timeYear": 3878,
     "dailyMinutesDown": {
-      "2023-07-02": 57,
+      "2023-07-03": 55,
+      "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -236,7 +237,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "52.73%",
+    "uptime": "52.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -247,7 +248,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-02": 57,
+      "2023-07-03": 55,
+      "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -610,8 +612,7 @@
       "2022-07-07": 1440,
       "2022-07-06": 1440,
       "2022-07-05": 1440,
-      "2022-07-04": 1440,
-      "2022-07-03": 1440
+      "2022-07-04": 1440
     }
   }
 ]

@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/agate.id.ico",
     "slug": "agate",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.19%",
-    "time": 3120,
-    "timeDay": 3225,
-    "timeWeek": 3214,
-    "timeMonth": 3217,
-    "timeYear": 3455,
+    "time": 3122,
+    "timeDay": 2795,
+    "timeWeek": 3146,
+    "timeMonth": 3203,
+    "timeYear": 3456,
     "dailyMinutesDown": {
       "2023-07-07": 17,
       "2023-05-02": 39,
@@ -39,10 +39,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 511,
-    "timeDay": 80,
-    "timeWeek": 109,
-    "timeMonth": 124,
-    "timeYear": 444,
+    "timeDay": 184,
+    "timeWeek": 120,
+    "timeMonth": 127,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2022-12-18": 15
     }
@@ -71,18 +71,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "down",
-    "uptime": "82.92%",
+    "uptime": "82.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.41%",
+    "uptimeYear": "58.13%",
     "time": 3743,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3931,
+    "timeYear": 3935,
     "dailyMinutesDown": {
-      "2023-07-21": 46,
+      "2023-07-22": 46,
+      "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -242,8 +243,7 @@
       "2023-01-25": 21,
       "2022-12-02": 864,
       "2022-12-01": 588,
-      "2022-07-28": 430,
-      "2022-07-22": 86
+      "2022-07-28": 430
     }
   },
   {
@@ -252,7 +252,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "51.66%",
+    "uptime": "51.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -263,7 +263,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 46,
+      "2023-07-22": 46,
+      "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -626,8 +627,7 @@
       "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
-      "2022-07-23": 1440,
-      "2022-07-22": 1440
+      "2022-07-23": 1440
     }
   }
 ]

@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.27%",
-    "time": 3254,
-    "timeDay": 2690,
-    "timeWeek": 2529,
-    "timeMonth": 2808,
+    "time": 3255,
+    "timeDay": 2745,
+    "timeWeek": 2568,
+    "timeMonth": 2793,
     "timeYear": 3550,
     "dailyMinutesDown": {
       "2023-09-12": 123,
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 84,
-    "timeWeek": 132,
+    "time": 449,
+    "timeDay": 70,
+    "timeWeek": 121,
     "timeMonth": 120,
-    "timeYear": 296,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2022-12-18": 15
     }
@@ -71,16 +71,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "up",
-    "uptime": "77.82%",
+    "uptime": "77.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "20.59%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "23.87%",
     "uptimeYear": "41.20%",
-    "time": 3714,
-    "timeDay": 120,
-    "timeWeek": 231,
-    "timeMonth": 231,
-    "timeYear": 3996,
+    "time": 3702,
+    "timeDay": 141,
+    "timeWeek": 198,
+    "timeMonth": 221,
+    "timeYear": 3976,
     "dailyMinutesDown": {
       "2023-09-22": 264,
       "2023-09-21": 1440,
@@ -313,7 +313,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "48.06%",
+    "uptime": "48.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -324,7 +324,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-29": 37,
+      "2023-09-30": 36,
+      "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
@@ -687,8 +688,7 @@
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
-      "2022-10-01": 1440,
-      "2022-09-30": 1440
+      "2022-10-01": 1440
     }
   }
 ]

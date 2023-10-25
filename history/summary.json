@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
-    "time": 3267,
-    "timeDay": 2719,
-    "timeWeek": 2550,
-    "timeMonth": 2572,
-    "timeYear": 3548,
+    "time": 3266,
+    "timeDay": 2724,
+    "timeWeek": 2609,
+    "timeMonth": 2583,
+    "timeYear": 3549,
     "dailyMinutesDown": {
       "2023-09-12": 123,
       "2023-09-11": 233,
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 102,
-    "timeWeek": 141,
-    "timeMonth": 127,
-    "timeYear": 242,
+    "time": 409,
+    "timeDay": 56,
+    "timeWeek": 123,
+    "timeMonth": 124,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2022-12-18": 15
     }
@@ -71,16 +71,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "up",
-    "uptime": "78.36%",
+    "uptime": "78.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "41.20%",
-    "time": 3451,
-    "timeDay": 133,
-    "timeWeek": 211,
-    "timeMonth": 517,
-    "timeYear": 3479,
+    "time": 3440,
+    "timeDay": 270,
+    "timeWeek": 219,
+    "timeMonth": 515,
+    "timeYear": 3462,
     "dailyMinutesDown": {
       "2023-09-22": 264,
       "2023-09-21": 1440,
@@ -313,7 +313,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "46.89%",
+    "uptime": "46.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -324,7 +324,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 37,
+      "2023-10-25": 37,
+      "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -687,8 +688,7 @@
       "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
-      "2022-10-26": 1440,
-      "2022-10-25": 1440
+      "2022-10-26": 1440
     }
   }
 ]

@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
-    "time": 3256,
-    "timeDay": 2377,
-    "timeWeek": 2543,
-    "timeMonth": 2587,
+    "time": 3257,
+    "timeDay": 2583,
+    "timeWeek": 2519,
+    "timeMonth": 2590,
     "timeYear": 3550,
     "dailyMinutesDown": {
       "2023-09-12": 123,
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 197,
-    "timeWeek": 143,
-    "timeMonth": 140,
-    "timeYear": 162,
+    "time": 345,
+    "timeDay": 96,
+    "timeWeek": 146,
+    "timeMonth": 136,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2022-12-18": 15
     }
@@ -71,16 +71,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "up",
-    "uptime": "79.15%",
+    "uptime": "79.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.32%",
-    "time": 3003,
-    "timeDay": 182,
-    "timeWeek": 183,
-    "timeMonth": 182,
-    "timeYear": 2642,
+    "uptimeYear": "41.48%",
+    "time": 2992,
+    "timeDay": 297,
+    "timeWeek": 181,
+    "timeMonth": 183,
+    "timeYear": 2614,
     "dailyMinutesDown": {
       "2023-09-22": 264,
       "2023-09-21": 1440,
@@ -311,7 +311,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "45.18%",
+    "uptime": "45.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -322,7 +322,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-02": 39,
+      "2023-12-03": 42,
+      "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -685,8 +686,7 @@
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   }
 ]

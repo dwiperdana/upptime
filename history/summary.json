@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 3364,
-    "timeDay": 2258,
-    "timeWeek": 2484,
-    "timeMonth": 2589,
+    "timeDay": 2737,
+    "timeWeek": 2489,
+    "timeMonth": 2596,
     "timeYear": 2884,
     "dailyMinutesDown": {
       "2023-09-12": 123,
@@ -36,14 +36,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 185,
-    "timeWeek": 144,
-    "timeMonth": 133,
-    "timeYear": 129,
-    "dailyMinutesDown": {
-      "2022-12-18": 15
-    }
+    "time": 321,
+    "timeDay": 59,
+    "timeWeek": 140,
+    "timeMonth": 131,
+    "timeYear": 127,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Game Dev dan Sekitarnya",
@@ -69,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "up",
-    "uptime": "79.44%",
+    "uptime": "79.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "41.48%",
-    "time": 2829,
-    "timeDay": 199,
-    "timeWeek": 125,
-    "timeMonth": 187,
-    "timeYear": 2345,
+    "time": 2817,
+    "timeDay": 139,
+    "timeWeek": 134,
+    "timeMonth": 183,
+    "timeYear": 2325,
     "dailyMinutesDown": {
       "2023-09-22": 264,
       "2023-09-21": 1440,
@@ -309,7 +307,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "44.56%",
+    "uptime": "44.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -320,7 +318,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-17": 43,
+      "2023-12-18": 41,
+      "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
@@ -683,8 +682,7 @@
       "2022-12-22": 1440,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
-      "2022-12-19": 1440,
-      "2022-12-18": 1440
+      "2022-12-19": 1440
     }
   }
 ]

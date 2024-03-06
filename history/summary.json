@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.39%",
-    "time": 3109,
-    "timeDay": 2261,
-    "timeWeek": 2702,
-    "timeMonth": 2650,
+    "time": 3108,
+    "timeDay": 2724,
+    "timeWeek": 2743,
+    "timeMonth": 2651,
     "timeYear": 2853,
     "dailyMinutesDown": {
       "2024-02-12": 27,
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 55,
-    "timeWeek": 137,
-    "timeMonth": 108,
-    "timeYear": 124,
+    "time": 196,
+    "timeDay": 106,
+    "timeWeek": 127,
+    "timeMonth": 107,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
@@ -69,16 +69,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "up",
-    "uptime": "80.84%",
+    "uptime": "80.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "45.26%",
-    "time": 1884,
-    "timeDay": 75,
-    "timeWeek": 160,
-    "timeMonth": 169,
-    "timeYear": 484,
+    "time": 1873,
+    "timeDay": 225,
+    "timeWeek": 150,
+    "timeMonth": 172,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2023-09-22": 264,
       "2023-09-21": 1440,
@@ -278,8 +278,7 @@
       "2023-03-11": 1440,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
-      "2023-03-08": 1440,
-      "2023-03-07": 1440
+      "2023-03-08": 1440
     }
   },
   {
@@ -288,7 +287,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "41.53%",
+    "uptime": "41.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -299,7 +298,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-05": 37,
+      "2024-03-06": 38,
+      "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
@@ -662,8 +662,7 @@
       "2023-03-11": 1440,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
-      "2023-03-08": 1440,
-      "2023-03-07": 1440
+      "2023-03-08": 1440
     }
   }
 ]

@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 2813,
-    "timeDay": 2669,
-    "timeWeek": 3219,
-    "timeMonth": 2711,
-    "timeYear": 2815,
+    "timeDay": 2473,
+    "timeWeek": 3235,
+    "timeMonth": 2703,
+    "timeYear": 2814,
     "dailyMinutesDown": {
       "2024-02-12": 27,
       "2024-01-15": 25,
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 108,
-    "timeWeek": 115,
-    "timeMonth": 126,
-    "timeYear": 124,
+    "time": 154,
+    "timeDay": 66,
+    "timeWeek": 98,
+    "timeMonth": 125,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
@@ -69,16 +69,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "up",
-    "uptime": "81.27%",
+    "uptime": "81.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.29%",
-    "time": 1566,
-    "timeDay": 72,
-    "timeWeek": 175,
-    "timeMonth": 173,
-    "timeYear": 298,
+    "uptimeYear": "52.56%",
+    "time": 1555,
+    "timeDay": 283,
+    "timeWeek": 190,
+    "timeMonth": 178,
+    "timeYear": 297,
     "dailyMinutesDown": {
       "2023-09-22": 264,
       "2023-09-21": 1440,
@@ -251,8 +251,7 @@
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
-      "2023-04-04": 1440,
-      "2023-04-03": 1440
+      "2023-04-04": 1440
     }
   },
   {
@@ -261,7 +260,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "40.59%",
+    "uptime": "40.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -272,7 +271,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-01": 43,
+      "2024-04-02": 40,
+      "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -635,8 +635,7 @@
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
-      "2023-04-04": 1440,
-      "2023-04-03": 1440
+      "2023-04-04": 1440
     }
   }
 ]

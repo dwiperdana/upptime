@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 2707,
-    "timeDay": 2729,
-    "timeWeek": 2642,
-    "timeMonth": 2697,
-    "timeYear": 2598,
+    "timeDay": 2766,
+    "timeWeek": 2698,
+    "timeMonth": 2713,
+    "timeYear": 2597,
     "dailyMinutesDown": {
       "2024-02-12": 27,
       "2024-01-15": 25,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 144,
-    "timeWeek": 176,
-    "timeMonth": 157,
-    "timeYear": 129,
+    "timeDay": 90,
+    "timeWeek": 155,
+    "timeMonth": 151,
+    "timeYear": 128,
     "dailyMinutesDown": {}
   },
   {
@@ -64,15 +64,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "up",
-    "uptime": "83.43%",
+    "uptime": "83.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.75%",
+    "uptimeYear": "95.03%",
     "time": 251,
-    "timeDay": 127,
-    "timeWeek": 183,
-    "timeMonth": 205,
+    "timeDay": 171,
+    "timeWeek": 187,
+    "timeMonth": 207,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2023-09-22": 264,
@@ -91,8 +91,7 @@
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
-      "2023-09-06": 1440,
-      "2023-09-05": 1440
+      "2023-09-06": 1440
     }
   },
   {
@@ -101,7 +100,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "35.91%",
+    "uptime": "35.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -112,7 +111,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-03": 47,
+      "2024-09-04": 48,
+      "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -475,8 +475,7 @@
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
-      "2023-09-06": 1440,
-      "2023-09-05": 1440
+      "2023-09-06": 1440
     }
   }
 ]

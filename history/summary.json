@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 2706,
-    "timeDay": 2413,
-    "timeWeek": 2680,
-    "timeMonth": 2705,
-    "timeYear": 2593,
+    "timeDay": 2731,
+    "timeWeek": 2652,
+    "timeMonth": 2707,
+    "timeYear": 2592,
     "dailyMinutesDown": {
       "2024-02-12": 27,
       "2024-01-15": 25,
@@ -34,8 +34,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 238,
-    "timeWeek": 126,
+    "timeDay": 151,
+    "timeWeek": 137,
     "timeMonth": 153,
     "timeYear": 129,
     "dailyMinutesDown": {}
@@ -64,15 +64,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "up",
-    "uptime": "83.49%",
+    "uptime": "83.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.12%",
+    "uptimeYear": "96.40%",
     "time": 250,
-    "timeDay": 299,
-    "timeWeek": 151,
-    "timeMonth": 206,
+    "timeDay": 170,
+    "timeWeek": 157,
+    "timeMonth": 208,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2023-09-22": 264,
@@ -86,8 +86,7 @@
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
-      "2023-09-11": 1440,
-      "2023-09-10": 1440
+      "2023-09-11": 1440
     }
   },
   {
@@ -96,7 +95,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "35.77%",
+    "uptime": "35.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -107,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-08": 53,
+      "2024-09-09": 51,
+      "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
@@ -470,8 +470,7 @@
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
-      "2023-09-11": 1440,
-      "2023-09-10": 1440
+      "2023-09-11": 1440
     }
   }
 ]

@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2704,
-    "timeDay": 2345,
-    "timeWeek": 2593,
-    "timeMonth": 2725,
-    "timeYear": 2587,
+    "timeDay": 2987,
+    "timeWeek": 2623,
+    "timeMonth": 2745,
+    "timeYear": 2589,
     "dailyMinutesDown": {
       "2024-02-12": 27,
       "2024-01-15": 25
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 209,
-    "timeWeek": 132,
-    "timeMonth": 144,
+    "timeDay": 119,
+    "timeWeek": 138,
+    "timeMonth": 142,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -62,21 +62,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "up",
-    "uptime": "83.60%",
+    "uptime": "83.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.59%",
-    "time": 249,
-    "timeDay": 229,
-    "timeWeek": 220,
-    "timeMonth": 207,
-    "timeYear": 249,
+    "uptimeYear": "98.86%",
+    "time": 248,
+    "timeDay": 87,
+    "timeWeek": 203,
+    "timeMonth": 203,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2023-09-22": 264,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   },
   {
@@ -85,7 +84,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "35.54%",
+    "uptime": "35.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -96,7 +95,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 40,
+      "2024-09-18": 49,
+      "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -459,8 +459,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   }
 ]

@@ -61,19 +61,19 @@
     "url": "https://game.indigo.id",
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
-    "status": "down",
+    "status": "up",
     "uptime": "84.01%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 158,
-    "timeWeek": 150,
-    "timeMonth": 162,
-    "timeYear": 217,
+    "timeDay": 120,
+    "timeWeek": 141,
+    "timeMonth": 160,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 19
     }
   },
   {
@@ -93,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 255,
+      "2024-10-22": 274,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,

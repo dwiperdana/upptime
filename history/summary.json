@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2627,
-    "timeDay": 2368,
-    "timeWeek": 2666,
-    "timeMonth": 2748,
-    "timeYear": 2614,
+    "time": 2626,
+    "timeDay": 2324,
+    "timeWeek": 2626,
+    "timeMonth": 2735,
+    "timeYear": 2613,
     "dailyMinutesDown": {
       "2024-02-12": 27,
       "2024-01-15": 25
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 191,
-    "timeWeek": 144,
-    "timeMonth": 131,
+    "timeDay": 62,
+    "timeWeek": 139,
+    "timeMonth": 129,
     "timeYear": 132,
     "dailyMinutesDown": {}
   },
@@ -62,15 +62,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "up",
-    "uptime": "84.64%",
+    "uptime": "84.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 231,
-    "timeDay": 117,
-    "timeWeek": 144,
-    "timeMonth": 163,
+    "timeDay": 120,
+    "timeWeek": 140,
+    "timeMonth": 164,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2024-11-04": 16,
@@ -83,7 +83,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "33.28%",
+    "uptime": "33.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -94,7 +94,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-18": 55,
+      "2024-12-19": 55,
+      "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
@@ -457,8 +458,7 @@
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
-      "2023-12-21": 1440,
-      "2023-12-20": 1440
+      "2023-12-21": 1440
     }
   }
 ]

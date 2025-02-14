@@ -1,7 +1,7 @@
 url: https://agate.id
-status: up
-code: 200
-responseTime: 2814
-lastUpdated: 2025-02-13T23:10:58.978Z
+status: down
+code: 500
+responseTime: 12302
+lastUpdated: 2025-02-14T03:43:11.111Z
 startTime: 2020-12-28T07:46:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>

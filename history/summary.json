@@ -4,18 +4,20 @@
     "url": "https://agate.id",
     "icon": "https://icons.duckduckgo.com/ip3/agate.id.ico",
     "slug": "agate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2631,
-    "timeDay": 2794,
-    "timeWeek": 3337,
-    "timeMonth": 2831,
-    "timeYear": 2659,
-    "dailyMinutesDown": {}
+    "time": 2630,
+    "timeDay": 2517,
+    "timeWeek": 3245,
+    "timeMonth": 2815,
+    "timeYear": 2658,
+    "dailyMinutesDown": {
+      "2025-02-17": 0
+    }
   },
   {
     "name": "Personal Website",
@@ -80,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "31.94%",
+    "uptime": "31.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -91,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-17": 55,
+      "2025-02-17": 520,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,

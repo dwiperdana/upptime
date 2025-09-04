@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2678,
-    "timeDay": 2575,
-    "timeWeek": 3002,
-    "timeMonth": 2863,
-    "timeYear": 2708,
+    "time": 2680,
+    "timeDay": 3549,
+    "timeWeek": 3102,
+    "timeMonth": 2898,
+    "timeYear": 2710,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 154,
-    "timeWeek": 169,
-    "timeMonth": 162,
+    "time": 142,
+    "timeDay": 77,
+    "timeWeek": 162,
+    "timeMonth": 158,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "up",
-    "uptime": "86.96%",
-    "uptimeDay": "93.41%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.95%",
+    "uptime": "86.97%",
+    "uptimeDay": "94.27%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.96%",
     "time": 189,
-    "timeDay": 214,
+    "timeDay": 225,
     "timeWeek": 193,
-    "timeMonth": 189,
+    "timeMonth": 186,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-09-03": 95,
+      "2025-09-03": 82,
       "2025-08-26": 35,
       "2025-08-25": 36,
       "2025-08-15": 15,
@@ -97,7 +97,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-03": 1287,
+      "2025-09-04": 54,
+      "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
@@ -460,8 +461,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   }
 ]

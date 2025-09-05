@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2680,
-    "timeDay": 3549,
-    "timeWeek": 3102,
-    "timeMonth": 2898,
+    "time": 2679,
+    "timeDay": 2513,
+    "timeWeek": 3032,
+    "timeMonth": 2903,
     "timeYear": 2710,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 77,
-    "timeWeek": 162,
+    "timeDay": 151,
+    "timeWeek": 165,
     "timeMonth": 158,
     "timeYear": 146,
     "dailyMinutesDown": {}
@@ -60,17 +60,16 @@
     "slug": "igsi",
     "status": "up",
     "uptime": "86.97%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.96%",
     "time": 189,
-    "timeDay": 241,
-    "timeWeek": 194,
-    "timeMonth": 187,
+    "timeDay": 191,
+    "timeWeek": 193,
+    "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-09-04": 6,
       "2025-09-03": 82,
       "2025-08-26": 35,
       "2025-08-25": 36,
@@ -98,7 +97,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-04": 1182,
+      "2025-09-05": 56,
+      "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
@@ -461,8 +461,7 @@
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
-      "2024-09-06": 1440,
-      "2024-09-05": 1440
+      "2024-09-06": 1440
     }
   }
 ]

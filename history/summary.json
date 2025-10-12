@@ -4,19 +4,19 @@
     "url": "https://agate.id",
     "icon": "https://icons.duckduckgo.com/ip3/agate.id.ico",
     "slug": "agate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2747,
-    "timeDay": 7346,
-    "timeWeek": 4148,
-    "timeMonth": 3304,
-    "timeYear": 2784,
+    "time": 2795,
+    "timeDay": 13618,
+    "timeWeek": 6593,
+    "timeMonth": 4018,
+    "timeYear": 2846,
     "dailyMinutesDown": {
-      "2025-10-12": 0
+      "2025-10-12": 5
     }
   },
   {
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-12": 410,
+      "2025-10-12": 415,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,

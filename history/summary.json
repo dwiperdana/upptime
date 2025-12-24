@@ -25,18 +25,20 @@
     "url": "https://dwiperdana.com",
     "icon": "https://icons.duckduckgo.com/ip3/dwiperdana.com.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 84,
-    "timeWeek": 153,
-    "timeMonth": 165,
+    "timeDay": 97,
+    "timeWeek": 148,
+    "timeMonth": 163,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-24": 0
+    }
   },
   {
     "name": "Game Dev dan Sekitarnya",
@@ -91,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "26.51%",
+    "uptime": "26.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -102,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-24": 63,
+      "2025-12-24": 960,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,

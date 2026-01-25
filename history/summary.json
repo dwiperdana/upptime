@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3036,
-    "timeDay": 2674,
-    "timeWeek": 2380,
-    "timeMonth": 2432,
-    "timeYear": 3232,
+    "time": 3035,
+    "timeDay": 2221,
+    "timeWeek": 2364,
+    "timeMonth": 2423,
+    "timeYear": 3231,
     "dailyMinutesDown": {
       "2025-10-24": 25,
       "2025-10-12": 32
@@ -29,12 +29,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 150,
-    "timeDay": 143,
-    "timeWeek": 171,
-    "timeMonth": 156,
+    "time": 151,
+    "timeDay": 223,
+    "timeWeek": 175,
+    "timeMonth": 163,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-12-24": 29
@@ -64,16 +64,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "up",
-    "uptime": "87.96%",
+    "uptime": "87.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 199,
-    "timeDay": 125,
-    "timeWeek": 208,
-    "timeMonth": 176,
-    "timeYear": 200,
+    "timeDay": 132,
+    "timeWeek": 199,
+    "timeMonth": 171,
+    "timeYear": 199,
     "dailyMinutesDown": {
       "2025-12-26": 17,
       "2025-12-20": 19,
@@ -94,7 +94,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "26.06%",
+    "uptime": "26.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -105,7 +105,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-24": 64,
+      "2026-01-25": 74,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -468,8 +469,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   }
 ]

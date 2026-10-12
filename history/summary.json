@@ -10,13 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 3234,
-    "timeDay": 3906,
-    "timeWeek": 4030,
-    "timeMonth": 3806,
-    "timeYear": 3323,
+    "time": 3235,
+    "timeDay": 3084,
+    "timeWeek": 3404,
+    "timeMonth": 3791,
+    "timeYear": 3300,
     "dailyMinutesDown": {
-      "2025-10-12": 32,
       "2025-10-24": 25,
       "2026-08-14": 163
     }
@@ -32,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 153,
-    "timeDay": 83,
-    "timeWeek": 198,
-    "timeMonth": 166,
+    "time": 154,
+    "timeDay": 207,
+    "timeWeek": 157,
+    "timeMonth": 165,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-12-24": 29
@@ -65,16 +64,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.indigo.id.ico",
     "slug": "igsi",
     "status": "up",
-    "uptime": "89.44%",
+    "uptime": "89.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 242,
-    "timeDay": 141,
-    "timeWeek": 287,
-    "timeMonth": 334,
-    "timeYear": 235,
+    "timeDay": 349,
+    "timeWeek": 291,
+    "timeMonth": 338,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2025-11-22": 25,
       "2025-11-30": 22,
@@ -88,7 +87,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.dilo.id.ico",
     "slug": "di-lo-game-academy",
     "status": "down",
-    "uptime": "22.85%",
+    "uptime": "22.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -99,7 +98,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-11": 187,
+      "2026-10-12": 210,
+      "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
@@ -462,8 +462,7 @@
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
-      "2025-10-13": 1440,
-      "2025-10-12": 1440
+      "2025-10-13": 1440
     }
   }
 ]
